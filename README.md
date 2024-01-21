@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Karim Medlej Pérez</h1>
 <h3 align="center">A passionate Data & Business Analyst from Spain</h3>
 
-- 📫 How to reach me **karim.medlej.perez@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/karim-medlej-p%C3%A9rez-60186414a/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+
+  <a href="mailto:karim.medlej.perez@gmail.com">
+  <img src="https://i.imgur.com/4QwKf8S.png" alt="Email Logo" height="30" width="40" />
 </a>
 
 
