@@ -1,3 +1,8 @@
+<h1 align="center">
+  <img src="image-url-here" />
+</h1>
+
+
 <h1 align="center">Hi 👋, I'm Karim Medlej Pérez</h1>
 <h3 align="center">A passionate Data & Business Analyst from Spain</h3>
 
