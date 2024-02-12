@@ -2,6 +2,7 @@
   <img src="https://github.com/Karim-Medlej/Karim-Medlej/blob/main/Karim%20Medlej%20P%C3%A9rez.png" />
 </h1>
 
+🇬🇧
 
 <h1 align="center">Hi 👋, I'm Karim Medlej Pérez</h1>
 <h3 align="center">A passionate Data & Business Analyst from Spain</h3>
