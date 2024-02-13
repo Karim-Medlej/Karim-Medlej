@@ -33,6 +33,11 @@
 <h3 align="left">Sobre Mí:</h3>
 <p align="left">
 
+<a href="https://www.youtube.com/watch?v=YcxlGNznRwU&ab_channel=KarimMedlej">
+  <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Youtube Logo" width="40" height="40"/>
+</a>
+
+
 👋 Hola, soy Karim, el mago de los negocios. Siempre estoy buscando aprender y resolver problemas difíciles. He dado un giro radical a mi vida y me he sumergido en el fascinante mundo de la tecnología y los datos, donde he descubierto mi verdadero propósito. ¿Quieres saber más sobre mí y mis aventuras? ¡Sigue leyendo!
 
 💡 Me encanta adquirir nuevas habilidades y conocimientos, por eso me inscribí a un bootcamp de Análisis de Datos en Datascientest, para formarme en el campo de los datos y aprovechar su potencial. Mi objetivo es utilizar esta capacidad para mejorar el mundo y abordar los desafíos que requieren soluciones innovadoras en varios sectores.
@@ -58,6 +63,5 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="60" height="40" style="max-width: 100%;">
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" style="max-width: 100%;">
 </div>
-
 
 ### Check out my Repositories! / ¡Echa un vistazo a mis repositorios! 👇
