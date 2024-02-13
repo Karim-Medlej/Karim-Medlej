@@ -17,7 +17,7 @@
 <h3 align="left">About Me:</h3>
 <p align="left">
 
-👋 Hi, I’m Karim, the business wizard. I’m always looking to learn and solve difficult problems. I’ve taken a radical turn in my life and immersed myself in the fascinating world of technology and data, where I’ve discovered my true purpose. Want to know more about me and my adventures? Keep reading!
+👋 Hi, I’m Karim. I’m always looking to learn and solve difficult problems. I’ve taken a radical turn in my life and immersed myself in the fascinating world of technology and data, where I’ve discovered my true purpose. Want to know more about me and my adventures? Keep reading!
 
 💡 I love acquiring new skills and knowledge, that’s why I enrolled in a Data Analysis bootcamp with Datascientest, to train myself in the field of data and take advantage of its potential. My goal is to use this capability to improve the world and address challenges that require innovative solutions in various sectors.
 
@@ -38,7 +38,7 @@
 </a>
 
 
-👋 Hola, soy Karim, el mago de los negocios. Siempre estoy buscando aprender y resolver problemas difíciles. He dado un giro radical a mi vida y me he sumergido en el fascinante mundo de la tecnología y los datos, donde he descubierto mi verdadero propósito. ¿Quieres saber más sobre mí y mis aventuras? ¡Sigue leyendo!
+👋 Hola, soy Karim. Siempre estoy buscando aprender y resolver problemas difíciles. He dado un giro radical a mi vida y me he sumergido en el fascinante mundo de la tecnología y los datos, donde he descubierto mi verdadero propósito. ¿Quieres saber más sobre mí y mis aventuras? ¡Sigue leyendo!
 
 💡 Me encanta adquirir nuevas habilidades y conocimientos, por eso me inscribí a un bootcamp de Análisis de Datos en Datascientest, para formarme en el campo de los datos y aprovechar su potencial. Mi objetivo es utilizar esta capacidad para mejorar el mundo y abordar los desafíos que requieren soluciones innovadoras en varios sectores.
 
