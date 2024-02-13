@@ -17,6 +17,10 @@
 <h3 align="left">About Me:</h3>
 <p align="left">
 
+<a href="https://www.youtube.com/watch?v=i-5asJg6RcM&ab_channel=KarimMedlej">
+  <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Youtube Logo" width="40" height="40"/>
+</a>
+
 👋 Hi, I’m Karim. I’m always looking to learn and solve difficult problems. I’ve taken a radical turn in my life and immersed myself in the fascinating world of technology and data, where I’ve discovered my true purpose. Want to know more about me and my adventures? Keep reading!
 
 💡 I love acquiring new skills and knowledge, that’s why I enrolled in a Data Analysis bootcamp with Datascientest, to train myself in the field of data and take advantage of its potential. My goal is to use this capability to improve the world and address challenges that require innovative solutions in various sectors.
