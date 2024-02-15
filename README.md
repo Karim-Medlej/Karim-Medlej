@@ -51,7 +51,6 @@
 
 <h3 align="left">Languages and Tools / Herramientas y Lenguajes:</h3>
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS Logo" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure Logo" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman Logo" width="40" height="40"/>
 <img src="https://camo.githubusercontent.com/4a948e11d0b2ac72fc2ee02d8539c83b7f50f043d8d0b62b0eb9d205001d7b6f/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f76697375616c73747564696f5f636f64652f76697375616c73747564696f5f636f64652d617232312e737667" alt="visual studio code" width="90" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" style="max-width: 100%;">
@@ -66,6 +65,7 @@
   <img src="https://matplotlib.org/_static/logo2.svg" alt="matplotlib" width="90" height="40" style="max-width: 100%;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="60" height="40" style="max-width: 100%;">
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" style="max-width: 100%;">
+  <img src="https://raw.githubusercontent.com/wikimedia/Commons/master/File:Microsoft_Office_Excel_(2019%E2%80%93present).svg" alt="Microsoft Excel" width="40" height="40" style="max-width: 100%;">
 </div>
 
 ### Check out my Repositories! / ¡Echa un vistazo a mis repositorios! 👇
