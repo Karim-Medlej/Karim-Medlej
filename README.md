@@ -65,6 +65,7 @@
   <img src="https://matplotlib.org/_static/logo2.svg" alt="matplotlib" width="90" height="40" style="max-width: 100%;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="60" height="40" style="max-width: 100%;">
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" style="max-width: 100%;">
+  <img src="https://github.com/Karim-Medlej/Karim-Medlej/blob/main/excel logo.png" width="40" height="40">
 </div>
 
 ### Check out my Repositories! / ¡Echa un vistazo a mis repositorios! 👇
