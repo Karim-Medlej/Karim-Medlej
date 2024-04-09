@@ -12,7 +12,7 @@
 </h1>
 
 <h1 align="center">Hi 👋, I'm Karim Medlej Pérez</h1>
-<h3 align="center">A passionate Data & Business Analyst from Spain</h3>
+<h3 align="center">A passionate Data Analyst from Spain</h3>
 
 <h3 align="left">About Me:</h3>
 <p align="left">
@@ -21,11 +21,30 @@
   <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Youtube Logo" width="40" height="40"/>
 </a>
 
-👋 Hi, I’m Karim. I’m always looking to learn and solve difficult problems. I’ve taken a radical turn in my life and immersed myself in the fascinating world of technology and data, where I’ve discovered my true purpose. Want to know more about me and my adventures? Keep reading!
+# Multilingual Data Strategist
+Greetings! I am a seasoned professional with a passion for data analysis, multilingual communication, and strategic thinking. Here’s a glimpse into my profile:
 
-💡 I love acquiring new skills and knowledge, that’s why I enrolled in a Data Analysis bootcamp with Datascientest, to train myself in the field of data and take advantage of its potential. My goal is to use this capability to improve the world and address challenges that require innovative solutions in various sectors.
+## Background and Expertise
+Multilingual Proficiency: Fluent in four languages, I possess the ability to navigate diverse cultural landscapes and foster meaningful connections across borders.
 
-🌐 Data is my hobby and my way of life. With it, I can do magic, like transforming an Excel table into a symphony, or discovering the secret of happiness. I enjoy solving problems and optimizing things. Data is my favorite toy. What more could you want?
+Data Analysis Mastery: My years of experience in data analysis have honed my ability to extract valuable insights from complex datasets. Whether it’s deciphering market trends or optimizing business processes, I thrive on data-driven decision-making.
+
+Sales Acumen: With a rich history in sales, I understand the dynamics of customer behavior, market segmentation, and revenue generation. My sales expertise complements my analytical mindset, allowing me to devise effective strategies.
+
+## Why I Stand Out
+The fusion of my linguistic versatility, data prowess, and sales background positions me as a specialist in data-driven strategies. Here’s how I make an impact:
+
+Strategic Insights: I leverage data to uncover hidden patterns, identify growth opportunities, and drive organizational success.
+
+Cross-Cultural Agility: My ability to communicate seamlessly across languages enables me to bridge gaps and collaborate effectively in global contexts.
+
+Sales-Driven Analytics: I understand the pulse of the market, translating raw data into actionable steps that enhance sales performance.
+Mission Statement
+
+## My mission is clear: Empowering businesses through data-driven excellence. Whether it’s optimizing marketing campaigns, streamlining operations, or predicting market shifts, I’m committed to making data work for you.
+
+## Connect with Me
+Feel free to reach out if you’d like to discuss data strategies, explore collaborative ventures, or simply engage in thought-provoking conversations. Let’s chart a course toward data-driven success!
 
 <h1 align="center">
 <img src="https://github.com/Karim-Medlej/Karim-Medlej/blob/main/esp.jpg" width="5%" height="5%">
