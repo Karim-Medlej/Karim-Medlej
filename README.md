@@ -17,9 +17,6 @@
 <h3 align="left">About Me:</h3>
 <p align="left">
 
-<a href="https://www.youtube.com/watch?v=eqsuPKLNwfg&ab_channel=KarimMedlej">
-  <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Youtube Logo" width="40" height="40"/>
-</a>
 
 # Multilingual Data Strategist
 Greetings! I am a seasoned professional with a passion for data analysis, multilingual communication, and strategic thinking. Here’s a glimpse into my profile:
@@ -56,9 +53,6 @@ Feel free to reach out if you’d like to discuss data strategies, explore colla
 <h3 align="left">Sobre Mí:</h3>
 <p align="left">
 
-<a href="https://www.youtube.com/watch?v=YcxlGNznRwU&ab_channel=KarimMedlej">
-  <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Youtube Logo" width="40" height="40"/>
-</a>
 
 # Estratega de datos multilingüe
 ¡Saludos! Soy un profesional de experiencia con pasión por el análisis de datos, la comunicación multilingüe y el pensamiento estratégico. He aquí un vistazo a mi perfil:
