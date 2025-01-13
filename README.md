@@ -4,8 +4,9 @@
 
 <h3 align="left">Contact Me / Contácteme:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/karim-medlej/" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/d335777810d77c4d37b9e8de004b85e4f7d805af9a304df093485cd1d1f32730/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6c696e6b6564696e2f6c696e6b6564696e2d69636f6e2e737667" alt="linkedin.com/in/karim-medlej-p%C3%A9rez-60186414a/" height="30" width="40" data-canonical-src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" style="max-width: 100%;"></a> 
-<a href="mailto:karim.medlej.perez@gmail.com?Subject=Hola%20Sergio%20nos%20gustaría%20conocerte"><img align="center" src="https://camo.githubusercontent.com/b2ea2b57a877b7e993662d111f38d3912672235196288f82373aaf5c3584d0a0/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676d61696c2f676d61696c2d69636f6e2e737667" height="35" width="35px" alt="mail" data-canonical-src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/karim-medlej/" rel="nofollow"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin.com/in/karim-medlej-p%C3%A9rez-60186414a/" height="30" width="40" style="max-width: 100%;"></a> 
+<a href="mailto:karim.medlej.perez@gmail.com?Subject=Hola%20Sergio%20nos%20gustaría%20conocerte"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="35" width="35px" alt="mail" style="max-width: 100%;"></a>
+</p>
 
 <h1 align="center">
 <img src="https://github.com/Karim-Medlej/Karim-Medlej/blob/main/gb.jpg" width="5%" height="5%">
