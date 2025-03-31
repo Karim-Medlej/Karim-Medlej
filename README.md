@@ -48,6 +48,29 @@ Feel free to reach out if you’d like to discuss data strategies, explore colla
 <img src="https://github.com/Karim-Medlej/Karim-Medlej/blob/main/esp.jpg" width="5%" height="5%">
 </h1>
 
+<h3 align="left">Languages and Tools</h3>
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman Logo" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="Visual Studio Code Logo" width="90" height="40" style="max-width: 100%;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Logo" width="40" height="40"/>
+</p>
+<div class="images">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="max-width: 100%; display: inline-block;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="max-width: 100%; display: inline-block;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" style="max-width: 100%;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Numpy-svgrepo-com.svg?uselang=es" alt="NumPy" width="40" height="40" style="max-width: 100%;">
+  <img src="https://matplotlib.org/_static/logo2.svg" alt="Matplotlib" width="90" height="40" style="max-width: 100%;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="60" height="40" style="max-width: 100%;">
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40" style="max-width: 100%;">
+  <img src="https://github.com/Karim-Medlej/Karim-Medlej/blob/main/excel logo.png" width="40" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40" style="max-width: 100%;">
+</div>
+
+
+### Check out my Repositories! 👇
+
+
+
 <h1 align="center">Hola 👋, Soy Karim Medlej Pérez</h1>
 <h3 align="center">Un apasionado Data Analyst</h3>
 
@@ -80,7 +103,7 @@ Potenciar las empresas a través de la excelencia basada en datos. Ya sea optimi
 ## Contacte conmigo:
 No dude en ponerse en contacto si desea discutir estrategias de datos, explorar empresas de colaboración o simplemente participar en conversaciones que provoquen la reflexión.
 
-<h3 align="left">Languages and Tools / Herramientas y Lenguajes:</h3>
+<h3 align="left">Herramientas y Lenguajes:</h3>
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman Logo" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="Visual Studio Code Logo" width="90" height="40" style="max-width: 100%;"/>
@@ -99,4 +122,4 @@ No dude en ponerse en contacto si desea discutir estrategias de datos, explorar 
 </div>
 
 
-### Check out my Repositories! / ¡Echa un vistazo a mis repositorios! 👇
+### ¡Echa un vistazo a mis repositorios! 👇
