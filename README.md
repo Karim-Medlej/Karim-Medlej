@@ -44,10 +44,6 @@ Empowering businesses through data-driven excellence. Whether it’s optimizing 
 ## Connect with Me:
 Feel free to reach out if you’d like to discuss data strategies, explore collaborative ventures, or simply engage in thought-provoking conversations.
 
-<h1 align="center">
-<img src="https://github.com/Karim-Medlej/Karim-Medlej/blob/main/esp.jpg" width="5%" height="5%">
-</h1>
-
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman Logo" width="40" height="40"/>
@@ -70,6 +66,9 @@ Feel free to reach out if you’d like to discuss data strategies, explore colla
 ### Check out my Repositories! 👇
 
 
+<h1 align="center">
+<img src="https://github.com/Karim-Medlej/Karim-Medlej/blob/main/esp.jpg" width="5%" height="5%">
+</h1>
 
 <h1 align="center">Hola 👋, Soy Karim Medlej Pérez</h1>
 <h3 align="center">Un apasionado Data Analyst</h3>
