@@ -5,7 +5,7 @@
 <h3 align="left">Contact Me / Contácteme:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/karim-medlej/" rel="nofollow"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin.com/in/karim-medlej-p%C3%A9rez-60186414a/" height="30" width="40" style="max-width: 100%;"></a> 
-<a href="mailto:karim.medlej.perez@gmail.com?Subject=Hola%20Sergio%20nos%20gustaría%20conocerte"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="35" width="35px" alt="mail" style="max-width: 100%;"></a>
+<a href="mailto:karim.medlej.perez@gmail.com?Subject=Hola%20Karim%20nos%20gustaría%20conocerte"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="35" width="35px" alt="mail" style="max-width: 100%;"></a>
 </p>
 
 <h1 align="center">
@@ -42,7 +42,7 @@ Sales-Driven Analytics: I understand the pulse of the market, translating raw da
 Empowering businesses through data-driven excellence. Whether it’s optimizing marketing campaigns, streamlining operations, or predicting market shifts, I’m committed to making data work for you.
 
 ## Connect with Me:
-Feel free to reach out if you’d like to discuss data strategies, explore collaborative ventures, or simply engage in thought-provoking conversations. Let’s chart a course toward data-driven success!
+Feel free to reach out if you’d like to discuss data strategies, explore collaborative ventures, or simply engage in thought-provoking conversations.
 
 <h1 align="center">
 <img src="https://github.com/Karim-Medlej/Karim-Medlej/blob/main/esp.jpg" width="5%" height="5%">
@@ -56,7 +56,7 @@ Feel free to reach out if you’d like to discuss data strategies, explore colla
 
 
 # Estratega de datos multilingüe
-¡Saludos! Soy un profesional de experiencia con pasión por el análisis de datos, la comunicación multilingüe y el pensamiento estratégico. He aquí un vistazo a mi perfil:
+¡Saludos! Soy un profesional de experiencia con pasión por el análisis de datos, la comunicación multilingüe y el pensamiento estratégico. Permíteme presentarte una visión general de mi perfil:
 
 ## Antecedentes y experiencia
 Competencia multilingüe: Con fluidez en cuatro idiomas, poseo la capacidad de navegar por diversos paisajes culturales y fomentar conexiones significativas a través de las fronteras.
@@ -78,7 +78,7 @@ Análisis basado en ventas: Entiendo el pulso del mercado, traduciendo los datos
 Potenciar las empresas a través de la excelencia basada en datos. Ya sea optimizando campañas de marketing, simplificando operaciones o prediciendo cambios de mercado, estoy comprometido a hacer que los datos funcionen mejor para usted.
 
 ## Contacte conmigo:
-No dude en ponerse en contacto si desea discutir estrategias de datos, explorar empresas de colaboración o simplemente participar en conversaciones que provoquen la reflexión. ¡Vamos a trazar un curso hacia el éxito basado en datos!
+No dude en ponerse en contacto si desea discutir estrategias de datos, explorar empresas de colaboración o simplemente participar en conversaciones que provoquen la reflexión.
 
 <h3 align="left">Languages and Tools / Herramientas y Lenguajes:</h3>
 <p align="left">
