@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://github.com/Karim-Medlej/Karim-Medlej/blob/main/Karim%20Medlej%20P%C3%A9rez.png" />
-</h1>
+
 
 <h3 align="left">Contact Me / Contácteme:</h3>
 <p align="left">
