@@ -44,7 +44,6 @@ Feel free to reach out if you’d like to discuss data strategies, explore colla
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman Logo" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="Visual Studio Code Logo" width="90" height="40" style="max-width: 100%;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Logo" width="40" height="40"/>
 </p>
@@ -102,7 +101,6 @@ No dude en ponerse en contacto si desea discutir estrategias de datos, explorar 
 
 <h3 align="left">Herramientas y Lenguajes:</h3>
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman Logo" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="Visual Studio Code Logo" width="90" height="40" style="max-width: 100%;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Logo" width="40" height="40"/>
 </p>
