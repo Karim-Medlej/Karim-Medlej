@@ -11,13 +11,13 @@
 </h1>
 
 <h1 align="center">Hi 👋, I'm Karim Medlej Pérez</h1>
-<h3 align="center">A passionate Data Analyst from Spain</h3>
+<h3 align="center">A passionate Data-Driven Strategist & Multilingual Sales Professional from Spain</h3>
 
 <h3 align="left">About Me:</h3>
 <p align="left">
 
 
-# Multilingual Data Strategist
+# Multilingual Data-Driven Strategist
 Greetings! I am a seasoned professional with a passion for data analysis, multilingual communication, and strategic thinking. Here’s a glimpse into my profile:
 
 ## Background and Expertise
@@ -69,7 +69,7 @@ Feel free to reach out if you’d like to discuss data strategies, explore colla
 </h1>
 
 <h1 align="center">Hola 👋, Soy Karim Medlej Pérez</h1>
-<h3 align="center">Un apasionado Data Analyst</h3>
+<h3 align="center">Un apasionado estratega basado en datos y profesional de ventas multilingüe</h3>
 
 <h3 align="left">Sobre Mí:</h3>
 <p align="left">
